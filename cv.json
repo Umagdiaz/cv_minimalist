@@ -1,110 +1,172 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
+    "name": "Umabali Granado Diaz",
+    "label": "Web Developer",
     "image": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "https://johndoe.com",
+    "email": "umabaligranado@gmail.com",
+    "phone": "(54) 11 39425267",
+    "url": "",
     "summary": "A summary of John Doe…",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Monserrat",
+      "postalCode": "",
+      "city": "Buenos Aires",
+      "countryCode": "AR",
+      "region": "Argentina"
     },
-    "profiles": [{
-      "network": "Twitter",
-      "username": "john",
-      "url": "https://twitter.com/john"
+    "profiles": [
+    {
+      "network": "LinkedIn",
+      "username": "Umabali Granado Diaz",
+      "url": "www.linkedin.com/in/umabali-granado-díaz-b380b21b6"
+    },
+    {
+      "network": "GitHub",
+      "username": "Umagdiaz",
+      "url": "https://github.com/Umagdiaz"
+    },
+    {
+      "network": "Behance",
+      "username": "Umabali Granado Diaz",
+      "url": "https://www.behance.net/umabaligranado"
     }]
   },
   "work": [{
-    "name": "Company",
-    "position": "President",
+    "name": "CodeFlakes",
+    "position": "Web Developer",
     "url": "https://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
+    "startDate": "2023-02-01",
+    "endDate": "Current",
     "summary": "Description…",
     "highlights": [
       "Started the company"
     ]
   }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
   "education": [{
-    "institution": "University",
-    "url": "https://institution.com/",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
+    "institution": "Universidad Nacional de La Plata",
+    "area": "Lic. Bellas Artes"
   }],
   "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
+    "name": "Responsive Web Desing",
+    "date": "2023",
+    "issuer": "Goldsmiths - University of London"
+  },
+  {
+    "name": "Specialization: Graphic Design",
+    "date": "2021",
+    "issuer": "California Institute of Arts"
+  },
+  {
+    "name": "Specialization: UX/UI Design",
+    "date": "2023",
+    "issuer": "California Institute of Arts"
   }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ]
-  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Sass",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Preprocesador", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Ruby on Rails",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Ruby", "Servidor"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "React",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ]
+  ,
   "languages": [{
-    "language": "English",
-    "fluency": "Native speaker"
-  }],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
+    "language": "Ingles",
+    "fluency": "B1"
+    },
+    {"language": "Español",
+    "fluency": "Nativo"
   }],
   "projects": [{
-    "name": "Project",
-    "startDate": "2019-01-01",
-    "endDate": "2021-01-01",
+    "name": "Creative code",
+    "startDate": "2023",
     "description": "Description...",
-    "highlights": [
-      "Won award at AIHacks 2016"
-    ],
-    "url": "https://project.com/"
-  }]
+    "url": "https://github.com/Umagdiaz/Creative_code_landingpage"
+  },
+  {
+    "name": "Contacts",
+    "startDate": "2023",
+    "description": "Description...",
+    "url": "https://github.com/Umagdiaz/contacts_app"
+  },
+  {
+    "name": "Eco & Deco",
+    "startDate": "2023",
+    "description": "Description...",
+    "url": "https://github.com/Umagdiaz/eco_friendly_landingPage"
+  },
+  {
+    "name": "Restauranteur",
+    "startDate": "2023",
+    "description": "Description...",
+    "url": "https://github.com/Umagdiaz/restaurant_items"
+  },
+  {
+    "name": "HTML Email Template",
+    "startDate": "2024",
+    "description": "Description...",
+    "url": "https://github.com/Umagdiaz/Email_template_html"
+  },
+  {
+    "name": "X components",
+    "startDate": "2024",
+    "description": "Description...",
+    "url": "https://github.com/Umagdiaz/X_followCard_component"
+  }
+]
 }
